@@ -2,6 +2,8 @@
 This PDF have everything you need: <br>
 https://github.com/RayWangRui/Advanced-Visualisation-and-Computational-Environments-Fianl-Project/blob/main/Ray-Final%20Project.pdf<br>
 But you can also read this README~~~
+<br>Here is the Video Link 🔗: https://youtu.be/mNP35t5Jog8
+
 ![画板 1222-20](https://user-images.githubusercontent.com/91971211/174525040-1459e63a-71be-45b2-bdc5-99138cbd6ba1.jpg)
 
 Inspired by I Ching, an ancient Chinese philosophical document, the artwork explores the conservation between everything in the world. Motion and stillness permeates objects from virtual world to physical world. Stillness can be seen as a dynamic change as well. 
